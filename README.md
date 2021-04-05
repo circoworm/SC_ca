@@ -1,6 +1,8 @@
 # Localization of Star Citizen into Catalan
 
-This modification adds support for the Catalan language to the game made by the community "Star Citizen in Russian"
+[![Latest Release Downloads](https://img.shields.io/github/downloads/circoworm/SC_ca/latest/total)](https://github.com/circoworm/SC_ca/releases/latest)
+
+This modification adds support for the Catalan language to the game made by CATCOM (Catalan Company Org)
 
 
 ## Installation
